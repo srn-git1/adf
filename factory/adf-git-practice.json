@@ -1,0 +1,9 @@
+{
+	"name": "adf-git-practice",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e4a1a31b-0549-4900-9d94-b8d1e39a1129",
+		"tenantId": "6992be89-769f-4c47-ad54-ea164523b35c"
+	}
+}
